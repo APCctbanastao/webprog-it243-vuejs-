@@ -6,7 +6,7 @@
 export default {
   data() {
     return {
-      message: 'Hello WEBPROG! Feeling Glorious! '
+      message: 'Hello WEBPROG! Feeling Glorious! Push Push baby! '
     };
   }
 };
