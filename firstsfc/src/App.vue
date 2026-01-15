@@ -3,8 +3,7 @@
   <personal-profile/>
   <food-item/>
   <food-item2/>
-  <
-</template>
+  </template>
 
 <script></script>
 
